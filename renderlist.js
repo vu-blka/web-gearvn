@@ -208,8 +208,8 @@ const listProduct4 = [
     },
 
     {
-        img: 'https://product.hstatic.net/1000026716/product/9_77bc16cf783440fc8721cf6339fb150d.jpg',
-        name: 'Màn hình LG 24MK600M-B 24" IPS 75Hz FreeSync 3 cạnh không viền',
+        img: 'https://product.hstatic.net/1000026716/product/1_e5b17493065945edbc836f98e2a76100.jpg',
+        name: 'Màn hình ViewSonic VX2481-MH 24" IPS 75Hz chuyên game',
         originPrice: '4,690,000₫',
         saleOffPrice: '4,050,000₫',
         saleOff: '-14%'
