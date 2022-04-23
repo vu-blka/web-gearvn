@@ -4,7 +4,7 @@ const listProduct1 = [
         name: 'Bàn phím Razer Blackwidow V3',
         originPrice: '4,090,000₫',
         saleOffPrice: '3,590,000₫',
-        saleOff: '-12%'
+        saleOff: '-13%'
     },
 
     {
