@@ -204,7 +204,7 @@ const listProduct4 = [
         name: 'Màn hình AOC 24G2E 24" IPS 144Hz chuyên gaming',
         originPrice: '4,890,000₫',
         saleOffPrice: '4,490,000₫',
-        saleOff: '-8%'
+        saleOff: '-9%'
     },
 
     {
