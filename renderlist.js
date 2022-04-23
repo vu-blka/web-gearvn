@@ -41,44 +41,46 @@ const listProduct1 = [
 ];
 
 const listProduct2 = [
-    {
-        img: '//product.hstatic.net/1000026716/product/titan_90cd8d8cca604f97b6b69776f309d51b_large.jpg',
-        name: 'GVN Titan 10 M',
-        originPrice: '',
-        saleOffPrice: 'Liên hệ',
-        saleOff: ''
-    },
 
     {
-        img: '//product.hstatic.net/1000026716/product/mystic_d434e4c74285421ba41f8c824ee8bec8_large.jpg',
+        img: 'https://product.hstatic.net/1000026716/product/mystic_f3c70f3ef0dc4e86b932d53b4932b70e.jpg',
         name: 'GVN Mystic M',
-        originPrice: '',
-        saleOffPrice: 'Liên hệ',
-        saleOff: ''
+        originPrice: '13,480,000₫',
+        saleOffPrice: '12,690,000₫',
+        saleOff: '-6%'
     },
 
     {
-        img: '//product.hstatic.net/1000026716/product/viper_78c595d288b6496092d5342c9ca8b1ac_large.jpg',
+        img: 'https://product.hstatic.net/1000026716/product/ivy_c469b20cd3c84f398b20176c012e5ff8.jpg',
+        name: 'GVN Ivy M',
+        originPrice: '14,880,000₫',
+        saleOffPrice: '13,990,000₫',
+        saleOff: '-6%'
+    },
+
+
+    {
+        img: 'https://product.hstatic.net/1000026716/product/viper_7e6b43cd96324763891aa331fcb0f144.jpg',
         name: 'GVN Viper M',
-        originPrice: '20,430,000₫',
-        saleOffPrice: '19,790,000₫',
-        saleOff: '-3%'
+        originPrice: '16,120,000₫',
+        saleOffPrice: '15,290,000₫',
+        saleOff: '-5%'
     },
 
     {
-        img: 'https://product.hstatic.net/1000026716/product/minion_bb3a82c273824697a617e71f0445405f_large.jpg',
-        name: 'GVN Minion M',
-        originPrice: '21,390,000₫',
-        saleOffPrice: '20,990,000₫',
-        saleOff: '-2%'
+        img: 'https://product.hstatic.net/1000026716/product/ratchet_c6d03b5dee39455bbcb66144b29bcbfe.jpg',
+        name: 'GVN Ratchet M',
+        originPrice: '18,780,000₫',
+        saleOffPrice: '17,890,000₫',
+        saleOff: '-5%'
     },
 
     {
-        img: '//product.hstatic.net/1000026716/product/ghost_e07084da9bce4e328537df6846a3cf3e_large.jpg',
+        img: 'https://product.hstatic.net/1000026716/product/ghost_3dedb620811c4c25935ffb5df0dbec71.jpg',
         name: 'GVN Ghost S',
-        originPrice: '27,710,000₫',
-        saleOffPrice: '25,290,000₫',
-        saleOff: '-9%'
+        originPrice: '22,920,000₫',
+        saleOffPrice: '21,890,000₫',
+        saleOff: '-4%'
     },
 ];
 
@@ -108,7 +110,7 @@ const listProduct3 = [
     },
 
     {
-        img: 'https://product.hstatic.net/1000026716/product/hn002t_9702ad2e89f442ca838f4daeb978d93a.png',
+        img: 'https://product.hstatic.net/1000026716/product/khung-laptop-gaming_4a52278d533143b3a923e4a11f8e0401.png',
         name: 'Laptop ASUS TUF Gaming F15 FX506LH HN002T',
         originPrice: '20,490,000₫',
         saleOffPrice: '19,490,000₫',
@@ -198,7 +200,7 @@ const listProduct4 = [
     },
 
     {
-        img: 'https://product.hstatic.net/1000026716/product/aoc_24g2e_gearvn_1011dc9ce7b8450d993df4516006aa7f.jpg',
+        img: 'https://product.hstatic.net/1000026716/product/5_cdbba8d2ff404b14b039bc788b7f4eea.jpg',
         name: 'Màn hình AOC 24G2E 24" IPS 144Hz chuyên gaming',
         originPrice: '4,890,000₫',
         saleOffPrice: '4,490,000₫',
@@ -207,10 +209,10 @@ const listProduct4 = [
 
     {
         img: 'https://product.hstatic.net/1000026716/product/9_77bc16cf783440fc8721cf6339fb150d.jpg',
-        name: 'Màn hình ViewSonic VA2418-SH 24“ IPS 75Hz',
-        originPrice: '3,190,000₫',
-        saleOffPrice: '2,950,000₫',
-        saleOff: '-8%'
+        name: 'Màn hình LG 24MK600M-B 24" IPS 75Hz FreeSync 3 cạnh không viền',
+        originPrice: '4,690,000₫',
+        saleOffPrice: '4,050,000₫',
+        saleOff: '-14%'
     },
 
     {
@@ -230,11 +232,11 @@ const listProduct4 = [
     },
 
     {
-        img: 'https://product.hstatic.net/1000026716/product/asus_vp279qgl_gearvn_2715d2eff31b4209b8674a307a1afa56.jpg',
-        name: 'Màn hình ASUS VP279QGL 27" IPS 75Hz',
-        originPrice: '4,950,000₫',
-        saleOffPrice: '4,890,000₫',
-        saleOff: '-1%'
+        img: 'https://product.hstatic.net/1000026716/product/acer_ka272_gearvn_066b9835519e489b991e2f99e2ec1e4e.jpg',
+        name: 'Màn hình ACER KA272 27" IPS 75Hz',
+        originPrice: '4,690,000₫',
+        saleOffPrice: '4,390,000₫',
+        saleOff: '-6%'
     },
 
     {
@@ -312,29 +314,29 @@ const listProduct5 = [
     },
 
     {
-        img: 'https://product.hstatic.net/1000026716/product/5_4655a2f491684e7db0d03c301c10f152.jpg',
-        name: 'Laptop Asus ZenBook 14 UX425EA BM069T',
-        originPrice: '22,990,000₫',
-        saleOffPrice: '21,290,000₫',
-        saleOff: '-7%'
-    },
-
-    {
         img: 'https://product.hstatic.net/1000026716/product/khunglaptopwebsite_22516914683249c98d6762845ab4f30a.jpg',
         name: 'Laptop Acer Swift 3X SF314 510G 57MR',
         originPrice: '22,990,000₫',
         saleOffPrice: '21,490,000₫',
         saleOff: '-7%'
     },
+
+    {
+        img: 'https://product.hstatic.net/1000026716/product/1_4c2ca2050f97432189378115d0fa1f0d.png',
+        name: 'Laptop HP Envy 13 BA1536TU 4U6M5PA',
+        originPrice: '23,990,000₫',
+        saleOffPrice: '21,990,000₫',
+        saleOff: '-8%'
+    },
 ];
 
 const listProduct6 = [
     {
-        img: 'https://product.hstatic.net/1000026716/product/gvn_newmen_t260_6c3b7eb7968645a08e982f14c1c9ffb3.png',
-        name: 'Bộ bàn phím + chuột Newmen T260',
-        originPrice: '280,000₫',
-        saleOffPrice: '250,000₫',
-        saleOff: '-11%'
+        img: 'https://product.hstatic.net/1000026716/product/1-1_b9e01fd9d23e4137998318177f20fa76.jpg',
+        name: 'Bàn phím Dare-U LK185',
+        originPrice: '189,000₫',
+        saleOffPrice: '170,000₫',
+        saleOff: '-10%'
     },
 
     {
@@ -402,7 +404,7 @@ const listProduct6 = [
     },
 
     {
-        img: 'https://product.hstatic.net/1000026716/product/gearvn-ban-phim-fuhlen-g900l-666_66545d756bdb410dbbe7ffa9eb510120.jpg',
+        img: 'https://product.hstatic.net/1000026716/product/gearvn.com-products-ban-phim-fuhlen-g900l-1_d1862127f3384f75bc2b69cb8ca81dee.jpg',
         name: 'Bàn phím Fuhlen G900L',
         originPrice: '650,000₫',
         saleOffPrice: '590,000₫',
