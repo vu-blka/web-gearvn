@@ -43,27 +43,27 @@ const listProduct1 = [
 const listProduct2 = [
 
     {
-        img: 'https://product.hstatic.net/1000026716/product/mystic_f3c70f3ef0dc4e86b932d53b4932b70e.jpg',
-        name: 'GVN Mystic M',
-        originPrice: '13,480,000₫',
-        saleOffPrice: '12,690,000₫',
-        saleOff: '-6%'
+        img: 'https://product.hstatic.net/1000026716/product/1_e5c97edf405046eb96fc7896e3c56087_large.jpg',
+        name: 'GVN VIPER i2060',
+        originPrice: '20,420,000₫',
+        saleOffPrice: '19,490,000₫',
+        saleOff: '-5%'
     },
 
     {
-        img: 'https://product.hstatic.net/1000026716/product/ivy_c469b20cd3c84f398b20176c012e5ff8.jpg',
-        name: 'GVN Ivy M',
-        originPrice: '14,880,000₫',
-        saleOffPrice: '13,990,000₫',
-        saleOff: '-6%'
+        img: 'https://product.hstatic.net/1000026716/product/minion_i3050_ee668789d6ae451481ed707e47040e03_large.jpg',
+        name: 'GVN MINION i3050',
+        originPrice: '16,820,000₫',
+        saleOffPrice: '15,990,000₫',
+        saleOff: '-5%'
     },
 
 
     {
-        img: 'https://product.hstatic.net/1000026716/product/viper_7e6b43cd96324763891aa331fcb0f144.jpg',
-        name: 'GVN Viper M',
-        originPrice: '16,120,000₫',
-        saleOffPrice: '15,290,000₫',
+        img: 'https://product.hstatic.net/1000026716/product/viper_i1650_50ab78f3dd4d4159b6276c7870e16e18_large.jpg',
+        name: 'GVN VIPER i1650',
+        originPrice: '17,120,000₫',
+        saleOffPrice: '16,190,000₫',
         saleOff: '-5%'
     },
 
@@ -438,7 +438,7 @@ const listProduct7 = [
     },
 
     {
-        img: 'https://product.hstatic.net/1000026716/product/gearvn-logitech-g402-hyperion-fury-ultra-fast-666_4a355fb41b804b15a858496e007e80b2.png',
+        img: 'https://product.hstatic.net/1000026716/product/thumbchuot_4ae278344d694339876368d295a10724_large.gif',
         name: 'Chuột Logitech G402 Hyperion',
         originPrice: '999,000₫',
         saleOffPrice: '640,000₫',
